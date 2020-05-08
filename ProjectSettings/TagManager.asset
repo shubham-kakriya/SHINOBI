@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ENEMY
+  - DRONEENEMY
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BACKGROUND
+    uniqueID: 778720415
+    locked: 0
+  - name: BUILDING
+    uniqueID: 2663701003
+    locked: 0
+  - name: PROPS
+    uniqueID: 3548267135
+    locked: 0
+  - name: CARS
+    uniqueID: 3425315175
+    locked: 0
+  - name: ENTITY
+    uniqueID: 2272668353
+    locked: 0
+  - name: FOREGROUND
+    uniqueID: 2251446837
+    locked: 0
